@@ -7,6 +7,7 @@ public class Sample12 {
 
 		System.out.println("manish hi");
 		System.out.println("sai,sudheer,manish");
+		System.out.println("🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣");
 }
 
 }

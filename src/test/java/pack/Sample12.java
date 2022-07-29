@@ -16,7 +16,7 @@ public class Sample12 {
 
 		System.out.println("🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁");
 		System.out.println("💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️");
-	System.out.println("hi sai");
+	System.out.println("hi saiiiuuyuiyiyiyiu");
 	}
 
 

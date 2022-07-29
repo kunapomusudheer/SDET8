@@ -9,13 +9,28 @@ public class Sample12 {
 		System.out.println("🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣");
 		System.out.println("sai.hi....");
 		System.out.println("saqikee@@@@");
+
 		System.out.println("manish123 😍 🥰 😘 😗 😙 😚 😋 😛 😝 😜 🤪 🤨 🧐 🤓 😎 🥸 🤩 🥳 😏 😒 😞 😔 😟 😕 🙁 ☹️");
 
+
+		System.out.println("😀 😃 😄 😁 😆 😅 😂 🤣 🥲 ☺️ 😊 😇 🙂 🙃 😉 😌 😍 🥰 😘 😗 😙 😚 😋 😛 😝 😜 🤪 🤨 🧐 🤓 😎 🥸 🤩 🥳 😏 😒 😞 😔 😟 😕 🙁 ☹️");
+
+		System.out.println("manish123😍 🥰 😘 😗 😙 😚 😋 😛 😝 😜 🤪 🤨 🧐 🤓 😎 🥸 🤩 🥳 😏 😒 😞 😔 😟 😕 🙁 ☹️");
+
+
 		System.out.println("🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁");
+
 		System.out.println("hariddd123 govinda");
 
+
+
+		System.out.println("hari govinda");
+
+
+
 		System.out.println("💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️");
-}
+	System.out.println("hi saiiiuuyuiyiyiyiu");
+	}
 
 
 }

@@ -5,5 +5,6 @@ public class Sample12 {
 		System.out.println("sai....hii guysS");
 		System.out.println("manish hi");
 		System.out.println("sai,sudheer,manish");
+		System.out.println("😀 😃 😄 😁 😆 😅 😂 🤣 🥲 ☺️ 😊 😇 🙂 🙃 😉 😌 😍 🥰 😘 😗 😙 😚 😋 😛 😝 😜 🤪 🤨 🧐 🤓 😎 🥸 🤩 🥳 😏 😒 😞 😔 😟 😕 🙁 ☹️");
 }
 }

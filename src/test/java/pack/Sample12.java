@@ -9,10 +9,10 @@ public class Sample12 {
 		System.out.println("🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣");
 		System.out.println("sai.hi....");
 		System.out.println("saqikee@@@@");
-		System.out.println("manish 😍 🥰 😘 😗 😙 😚 😋 😛 😝 😜 🤪 🤨 🧐 🤓 😎 🥸 🤩 🥳 😏 😒 😞 😔 😟 😕 🙁 ☹️");
+		System.out.println("manish123 😍 🥰 😘 😗 😙 😚 😋 😛 😝 😜 🤪 🤨 🧐 🤓 😎 🥸 🤩 🥳 😏 😒 😞 😔 😟 😕 🙁 ☹️");
 
 		System.out.println("🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁🦁");
-		System.out.println("hari govinda");
+		System.out.println("hariddd govinda");
 
 		System.out.println("💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️💀 ☠️");
 }

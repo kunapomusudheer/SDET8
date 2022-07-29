@@ -7,11 +7,12 @@ public class Sample12 {
 		System.out.println("saikrishna123");
 		System.out.println("super Sudheer");
 		System.out.println("🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣");
-<<<<<<< HEAD
+
 		System.out.println("sai.hi....");
-=======
+		System.out.println("saqikee@@@@");
 		System.out.println("😀 😃 😄 😁 😆 😅 😂 🤣 🥲 ☺️ 😊 😇 🙂 🙃 😉 😌 😍 🥰 😘 😗 😙 😚 😋 😛 😝 😜 🤪 🤨 🧐 🤓 😎 🥸 🤩 🥳 😏 😒 😞 😔 😟 😕 🙁 ☹️");
->>>>>>> branch 'master' of https://github.com/kunapomusudheer/SDET8.git
+		
+		
 }
 
 }
